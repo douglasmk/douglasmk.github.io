@@ -62,6 +62,7 @@
     <link rel="stylesheet" type="text/css" href="{{ "/css/flexslider.css" | prepend: site.baseurl }}" />
     <link rel="stylesheet" type="text/css" href="{{ "/js/mediaelement/mediaelementplayer.css" | prepend: site.baseurl }}" />
     <link rel="stylesheet" type="text/css" href="{{ "/css/tooltipster.css" | prepend: site.baseurl }}" />
+    <link rel="stylesheet" type="text/css" href="{{ "/css/style.css" | prepend: site.baseurl }}" />
     <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
 
     <!--[if lte IE 9]>

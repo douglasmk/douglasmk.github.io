@@ -2794,3 +2794,24 @@ a.more-link:hover,
 #nprogress .spinner-icon {
   border-top-color: #5BCF80; border-left-color: #5BCF80;
 	}
+
+
+
+footer div{
+	text-align: center;
+	margin: 0px;
+}
+
+footer .github{
+	display: inline-block;
+	margin: 0 .1em .2em 0;
+	text-align: center;
+	font-size: 22px;
+	font-family: "fontello";
+	width: 36px;
+	color: #516075;
+}
+
+footer .github:before {
+	content: '\e805';
+}
